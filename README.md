@@ -20,9 +20,11 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 sudo apt install nvm
 ```
 
-[Atom](https://atom.io/)
+### [Atom](https://atom.io/)
 
-[FiraCode](https://github.com/tonsky/FiraCode)
+### [FiraCode](https://github.com/tonsky/FiraCode)
+
+### [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
 
 [HyperTerm](https://hyper.is/)
 
