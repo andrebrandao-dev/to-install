@@ -1,21 +1,21 @@
-# to-install
+# To install
 
 Elementary OS
 
 
-GDEBI
+## GDEBI
 ```
 sudo apt install gdebi
 ```
 
-zsh
+## zsh
 ```
 sudo apt install zsh
 
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
-nvm
+## nvm
 ```
 sudo apt install nvm
 ```
@@ -26,7 +26,7 @@ sudo apt install nvm
 
 [HyperTerm](https://hyper.is/)
 
-[Plugins Hyper](https://github.com/bnb/awesome-hyper)
+## [Plugins Hyper](https://github.com/bnb/awesome-hyper)
 
 ```
 [
