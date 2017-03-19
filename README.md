@@ -26,7 +26,7 @@ sudo apt install nvm
 
 ### [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
 
-[HyperTerm](https://hyper.is/)
+### [HyperTerm](https://hyper.is/)
 
 ## [Plugins Hyper](https://github.com/bnb/awesome-hyper)
 
