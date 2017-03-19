@@ -19,14 +19,7 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 ```
 sudo apt install nvm
 ```
-
-### [Atom](https://atom.io/)
-
-### [FiraCode](https://github.com/tonsky/FiraCode)
-
-### [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
-
-### [HyperTerm](https://hyper.is/)
+## [HyperTerm](https://hyper.is/)
 
 ## [Plugins Hyper](https://github.com/bnb/awesome-hyper)
 
@@ -36,3 +29,9 @@ sudo apt install nvm
   'hypercwd'
 ]
 ```
+
+## [Atom](https://atom.io/)
+
+## [FiraCode](https://github.com/tonsky/FiraCode)
+
+## [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
