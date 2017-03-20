@@ -35,3 +35,5 @@ sudo apt install nvm
 ## [FiraCode](https://github.com/tonsky/FiraCode)
 
 ## [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
+
+## [Config SSH](https://confluence.atlassian.com/bitbucket/set-up-ssh-for-git-728138079.html)
