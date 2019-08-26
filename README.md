@@ -21,11 +21,3 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 ```
 
 ## [nvm](https://github.com/creationix/nvm#installation)
-
-## [rbenv](https://github.com/rbenv/rbenv#installation)
-
-## [LinuxBrew](http://linuxbrew.sh/)
-
-## [HyperTerm](https://hyper.is/)
-
-## [AppImageKit](https://github.com/probonopd/AppImageKit/releases)
